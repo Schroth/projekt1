@@ -1,2 +1,5 @@
-Hallo git
-weitere Anderung
+# Hallo git
+# weitere Anderung
+# neuer Editor mit
+git config --global core.editor gedit
+
